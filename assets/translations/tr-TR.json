@@ -1,0 +1,41 @@
+{
+    "minesweeper": "MightyMines",
+    "statistics": "İstatistikler",
+    "settings": "Ayarlar",
+
+    "about": "Hakkında",
+    "howToPlay": "Nasıl oynanır",
+    "rateUs": "Bizi değerlendirin",
+    "share": "Paylaş",
+    "shareMessage": "MightyMines oyununu oynadım. Bu oyunu denemelisin! \n\n{}",
+    "selectLanguage": "Dil seçin",
+
+    "version": "Versiyon {}",
+    "moreGames": "Daha fazla oyun",
+    "developerWebsite": "Geliştirici web sitesi",
+    "privacyPolicy": "Gizlilik Politikası",
+
+    "easy": "Kolay",
+    "medium": "Orta",
+    "hard": "Zor",
+    "gamesStarted": "Başlatılan Oyunlar",
+    "gamesWon": "Kazanılan Oyunlar",
+    "winRate": "Kazanma Oranı",
+    "bestTime": "En iyi süre",
+    "averageTime": "Ortalama süre",
+    "statisticsError": "İstatistikler yüklenirken bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+
+    "exitGame": "Oyundan çık",
+    "exitGameMessage": "Oyundan çıkmak istediğinizden emin misiniz? İlerlemeniz kaydedilmeyecek.",
+    "yes": "Evet",
+    "no": "Hayır",
+    "skip": "Atla",
+    "playAgain": "Yeniden oyna",
+    "tryAgain": "Tekrar dene",
+
+    "howToPlay1": "Oyunu başlatmak için bir kareye dokunun.",
+    "howToPlay2": "Her kare, komşu mayınların sayısını gösterir.",
+    "howToPlay4": "Bir kareye uzun basarak bir bayrak yerleştirin.",
+    "howToPlay3": "Mayına dokunursanız oyun biter.",
+    "howToPlay5": "Mayın olmayan tüm kareleri açarsanız oyunu kazanırsınız."
+}
