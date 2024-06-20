@@ -22,5 +22,5 @@ jobs:
           uses: ncipollo/release-action@v1
           with:
             artifacts: "build/app/outputs/apk/release/*"
-            tag: Math-Mania-v1.0.0
+            tag: MightyMines-v1.0.0
             token: ${{ secrets.TOKEN }}
